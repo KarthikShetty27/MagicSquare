@@ -6,7 +6,7 @@ Given `s`, convert it into a magic square at minimal cost. Print this cost on a 
 
 Note: The resulting magic square must contain distinct integers in the inclusive range `[1, 9]`
 
-Code for Magic Square using : [ C++ ](https://github.com/KarthikShetty27/MagicSquare/blob/main/MagicSquare.cpp)
+# Code for Magic Square using : [ C++ ](https://github.com/KarthikShetty27/MagicSquare/blob/main/MagicSquare.cpp)
 
 ## Example
 
